@@ -9,5 +9,5 @@
 ### ---    (2) Standardizing the index to begin at 100 by factoring returns since inception. This step is to reflect that
 ### ---        theoretically, stock prices aren't an ergodic process but their returns are, i.e. stock returns, 
 ### ---        which constitute the first-order differences of stock prices, are weakly stationary. 
-### ---        For practical purposes though, standardizing also ensures that the performance all indices are 
-### ---        comparable to one another via metrics such as the Sharpe Ratio or visual dashboards.
+### ---        For practical purposes though, standardizing ensures that the performance all indices are 
+### ---        comparable to one another via metrics such as the Sharpe Ratio or just visually eyeballing.
